@@ -1,0 +1,167 @@
+Hero	Role	Region	They Just... Don't... Die!	Where'd They Go?	Summoners on the Rift	It's a Trap!	I'm Helping	We Protec	We're good over here	Get over here	Nowhere to hide	Hold that pose	"It has ""ULTIMATE"" in the name!"
+Aatrox	Fighter, Tank	0	0	0	0	0	0	0	0	0	0	1	0
+Ahri	Assasin, Mage	Ionia	0	0	0	0	0	0	0	0	0	0	0
+Akali	Assasin	Ionia	0	1	0	0	0	0	0	0	0	0	0
+Akshan	Assasin, Marksman	Shurima	1	1	0	0	0	0	1	0	1	0	0
+Alistar	Support, Tank	0	1	0	0	0	0	1	0	1	0	1	0
+Amumu	Mage, Tank	Shurima	0	0	0	0	0	0	0	0	0	1	1
+Anivia	Mage, Support	Frejlord	1	0	0	0	1	0	0	0	0	1	1
+Annie	Mage	0	0	0	1	0	0	1	0	0	0	0	1
+Aphelios	Marksman	Targon	0	0	0	0	0	0	0	0	0	0	0
+Ashe	Marksman, Support	Frejlord	0	0	0	0	0	0	1	0	1	0	0
+Aurelion Sol	Mage	Targon	0	0	0	0	0	0	0	0	1	0	1
+Azir	Mage, Marksman	Shurima	0	0	1	0	1	0	1	1	0	0	1
+Bard	Mage, Support	0	1	0	0	0	0	1	0	0	1	1	1
+Bel'Veth	Fighter	Void	1	0	1	0	0	0	0	0	0	0	1
+Blitzcrank	Fighter, Tank	Zaun	0	0	0	0	0	0	0	1	0	1	1
+Brand	Mage	0	0	0	0	0	0	0	0	0	0	0	0
+Braum	Support, Tank	Frejlord	1	0	0	0	0	0	0	0	0	1	1
+Briar	Assasin, Fighter	Noxus	0	0	0	0	0	1	0	0	1	1	1
+Caitlyn	Marksman	Piltover	0	0	0	1	0	0	1	0	1	0	0
+Camille	Fighter, Tank	Piltover	0	0	0	0	0	0	0	0	0	1	0
+Cassiopeia	Mage	Noxus	0	0	0	0	0	0	0	0	0	0	1
+Cho'Gath	Mage, Tank	Void	0	0	0	0	0	0	1	0	0	0	0
+Corki	Marksman	Piltover, Bandle City	0	0	0	0	0	0	1	0	0	0	1
+Darius	Fighter, Tank	Noxus	0	0	0	0	0	0	0	1	0	0	0
+Diana	Fighter, Mage	Targon	0	0	0	0	0	0	0	0	0	0	1
+Dr. Mundo	Fighter, Tank	Zaun	0	0	0	0	0	0	1	0	0	0	0
+Draven	Marksman	Noxus	0	0	0	0	0	0	0	0	1	0	1
+Ekko	Assasin, Fighter	Zaun	1	0	0	0	0	0	0	0	0	0	1
+Elise	Fighter, Mage	Shadow Isles	1	0	1	0	0	0	0	0	0	0	0
+Evelynn	Assasin, Mage	Shadow Isles	1	1	0	0	0	0	0	0	0	0	1
+Ezreal	Mage, Marksman	Piltover	0	0	0	0	0	0	1	0	1	0	1
+Fiddlesticks	Mage, Support	Shadow Isles	0	0	1	0	0	0	0	0	0	0	1
+Fiora	Assasin, Fighter	Demacia	1	0	0	0	0	1	0	0	0	0	0
+Fizz	Assasin, Fighter	Bilgewater, Bandle City	1	0	0	0	0	0	0	0	0	0	1
+Galio	Mage, Tank	Demacia	0	0	0	0	0	1	0	0	1	1	1
+Gangplank	Fighter	Bilgewater	0	0	0	1	0	0	1	0	1	0	1
+Garen	Fighter, Tank	Demacia	0	0	0	0	0	0	0	0	0	0	0
+Gnar	Fighter, Tank	Frejlord, Bandle City	0	0	0	0	0	0	0	1	0	1	1
+Gragas	Fighter, Mage	Frejlord	0	0	0	0	0	0	0	1	0	1	1
+Graves	Marksman	Bilgewater	0	0	0	0	0	0	0	0	0	0	1
+Gwen	Assasin, Fighter	Shadow Isles	1	0	0	0	0	0	0	0	0	0	0
+Hecarim	Fighter, Tank	Shadow Isles	0	0	0	0	0	0	0	1	0	1	1
+Heimerdinger	Mage, Support	Piltover, Bandle City	0	0	1	0	0	0	0	0	0	0	1
+Hwei	Mage	Ionia	0	1	0	0	0	1	0	0	0	0	1
+Illaoi	Fighter, Tank	Bilgewater	0	0	1	0	0	0	0	0	0	0	1
+Irelia	Assasin, Fighter	Ionia	0	0	0	0	1	0	0	0	0	0	0
+Ivern	Mage, Support	Ionia	0	0	1	0	1	1	0	0	0	1	0
+Janna	Mage, Support	Zaun	0	0	0	0	0	1	0	1	0	1	1
+Jarvan IV	Fighter, Tank	Demacia	0	0	0	0	1	0	0	0	0	1	1
+Jax	Assasin, Fighter	0	1	0	0	0	0	0	0	0	0	0	0
+Jayce	Fighter, Marksman	Piltover	0	0	0	0	0	0	1	1	0	0	0
+Jhin	Mage, Marksman	Ionia	0	0	0	1	0	0	1	0	1	0	0
+Jinx	Marksman	Zaun	0	0	0	1	0	0	1	0	1	0	1
+Kai'Sa	Marksman	Void	0	1	0	0	0	0	1	0	1	0	0
+Kalista	Marksman	Shadow Isles	1	0	1	0	0	0	0	0	0	0	0
+Karma	Mage, Support	Ionia	0	0	0	0	0	1	1	0	0	0	0
+Karthus	Mage	Shadow Isles	1	0	0	0	0	0	0	0	1	0	1
+Kassadin	Assasin, Mage	Void	0	0	0	0	0	0	0	0	0	0	0
+Katarina	Assasin, Mage	Noxus	0	0	0	0	0	0	0	0	0	0	1
+Kayle	Fighter, Support	Demacia	1	0	0	0	0	1	0	0	0	0	1
+Kayn	Assasin, Fighter	Ionia	1	0	0	0	0	0	0	0	0	0	0
+Kennen	Mage, Marksman	Ionia, Bandle City	0	0	0	0	0	0	0	0	0	0	1
+Kha'Zix	Assasin	Void	0	1	0	0	0	0	0	0	0	0	0
+Kindred	Marksman	0	1	0	1	0	0	1	0	0	0	0	0
+Kled	Fighter, Tank	Noxus, Bandle City	1	0	0	0	0	0	1	1	1	1	0
+Kog'Maw	Mage, Marksman	Void	1	0	0	0	0	0	1	0	0	0	0
+K'Sante	Fighter, Tank	Shurima	1	0	0	0	0	1	0	1	0	1	0
+LeBlanc	Assasin, Mage	Noxus	0	1	0	0	0	0	0	0	0	1	0
+Lee Sin	Assasin, Fighter	Ionia	0	0	0	0	0	1	0	1	0	0	0
+Leona	Support, Tank	Targon	0	0	0	0	0	0	0	0	0	1	1
+Lillia	Fighter, Mage	Ionia	0	0	0	0	0	0	0	0	1	0	0
+Lissandra	Mage	Frejlord	1	0	1	0	0	0	0	0	0	1	1
+Lucian	Marksman	Demacia	0	0	0	0	0	0	0	0	0	0	0
+Lulu	Mage, Support	Bandle City	0	0	0	0	0	1	0	0	0	1	0
+Lux	Mage, Support	Demacia	0	0	0	0	0	1	1	0	1	0	1
+Malphite	Fighter, Tank	Ixtal	0	0	0	0	0	0	0	0	0	0	1
+Malzahar	Assasin, Mage	Void	1	0	1	0	0	0	0	0	0	0	0
+Maokai	Mage, Tank	Shadow Isles	1	0	1	1	0	0	1	1	1	1	1
+Master Yi	Assasin, Fighter	Ionia	1	0	0	0	0	0	0	0	0	0	0
+Milio	Support	Ixtal	0	0	0	0	0	1	1	0	0	0	1
+Miss Fortune	Marksman	Bilgewater	0	0	0	0	0	0	0	0	0	0	1
+Mordekaiser	Fighter	0	0	0	0	0	0	0	0	1	0	0	0
+Morgana	Mage, Support	Demacia	0	0	0	0	0	1	0	0	0	1	1
+Naafiri	Assasin	Shurima	0	0	1	0	0	0	0	0	0	0	0
+Nami	Mage, Support	0	0	0	0	0	0	1	0	0	0	1	1
+Nasus	Fighter, Tank	Shurima	0	0	0	0	0	0	0	0	0	0	0
+Nautilus	Support, Tank	Bilgewater	0	0	0	0	0	0	0	1	0	1	0
+Neeko	Mage, Support	0	0	1	1	0	0	0	0	0	0	1	1
+Nidalee	Assasin, Mage	Ixtal	0	0	0	1	0	1	1	0	0	0	0
+Nilah	Assasin, Fighter	Bilgewater, Ixtal	0	0	0	0	0	1	0	1	0	0	1
+Nocturne	Assasin, Fighter	0	0	1	0	0	0	0	0	0	1	0	0
+Nunu & Willump	Fighter, Tank	Frejlord	0	0	0	0	0	0	0	0	0	1	1
+Olaf	Fighter, Tank	Frejlord	1	0	0	0	0	0	0	0	0	0	0
+Orianna	Mage, Support	Piltover	0	0	1	0	0	1	0	1	0	0	1
+Ornn	Fighter, Tank	Frejlord	0	0	0	0	1	0	0	0	0	1	1
+Pantheon	Assasin, Fighter	Targon	1	0	0	0	0	0	1	0	1	0	1
+Poppy	Fighter, Tank	Demacia, Bandle City	0	0	0	0	0	0	0	1	0	1	0
+Pyke	Assasin, Support	Bilgewater	0	1	0	0	0	0	0	1	0	1	0
+Qiyana	Assasin, Fighter	Ixtal	0	1	0	0	0	0	0	0	0	1	1
+Quinn	Assasin, Marksman	Demacia	0	0	0	0	0	0	0	0	0	0	0
+Rakan	Support	Ionia	1	0	0	0	0	1	0	0	0	0	1
+Rammus	Fighter, Tank	Shurima	0	0	0	0	0	0	0	0	0	1	1
+Rek'Sai	Fighter	Void	0	0	0	0	0	0	0	0	0	0	0
+Rell	Support, Tank	Noxus	0	0	0	0	0	0	0	1	0	1	1
+Renata Glasc	Mage, Support	Zaun	1	0	0	0	0	1	0	0	0	1	1
+Renekton	Fighter, Tank	Shurima	0	0	0	0	0	0	0	0	0	0	0
+Rengar	Assasin, Fighter	Ixtal	0	1	0	0	0	0	0	0	0	0	0
+Riven	Assasin, Fighter	Noxus	0	0	0	0	0	0	0	0	0	1	1
+Rumble	Fighter, Mage	Bandle City	0	0	0	0	0	0	0	0	0	0	1
+Ryze	Fighter, Mage	0	0	0	0	0	0	0	0	0	1	0	0
+Samira	Marksman	Noxus	0	0	0	0	0	0	0	0	0	0	1
+Sejuani	Fighter, Tank	Frejlord	0	0	0	0	0	0	0	0	0	1	1
+Senna	Marksman, Support	Shadow Isles	0	1	0	0	0	1	1	0	1	0	1
+Seraphine	Mage, Support	Piltover	0	0	0	0	0	1	1	0	0	1	1
+Sett	Fighter, Tank	Ionia	0	0	0	0	0	0	0	1	0	1	1
+Shaco	Assasin	0	0	1	1	1	0	0	0	0	0	1	0
+Shen	Tank	Ionia	0	0	0	0	0	1	0	0	1	0	0
+Shyvana	Fighter, Tank	Demacia	0	0	0	0	0	0	1	0	0	0	0
+Singed	Fighter, Tank	Zaun	0	0	0	0	0	0	0	1	0	1	0
+Sion	Fighter, Tank	Noxus	1	0	0	0	0	0	0	0	1	1	0
+Sivir	Marksman	Shurima	0	0	0	0	0	0	1	0	0	0	0
+Skarner	Fighter, Tank	Shurima	0	0	0	0	0	0	0	1	0	1	0
+Sona	Mage, Support	Demacia	0	0	0	0	0	1	0	0	0	0	1
+Soraka	Mage, Support	Targon	0	0	0	0	0	1	0	0	1	0	0
+Swain	Fighter, Mage	Noxus	0	0	0	0	0	0	0	1	1	0	1
+Sylas	Assasin, Mage	Demacia	0	0	0	0	0	0	0	0	0	0	0
+Syndra	Mage	Ionia	0	0	0	0	0	0	0	0	0	0	0
+Tahm Kench	Support, Tank	Bilgewater	1	0	0	0	0	1	0	1	0	1	0
+Taliyah	Mage, Support	Shurima	0	0	0	0	1	0	1	1	1	0	0
+Talon	Assasin	Noxus	0	1	0	0	0	0	0	0	0	0	1
+Taric	Fighter, Support	Targon	1	0	0	0	0	1	0	0	0	0	0
+Teemo	Assasin, Marksman	Bandle City	0	1	0	1	0	0	0	0	0	0	0
+Thresh	Fighter, Support	Shadow Isles	0	0	0	0	0	1	0	1	0	1	0
+Tristana	Assasin, Marksman	Bandle City	0	0	0	0	0	0	0	1	0	0	0
+Trundle	Fighter, Tank	Frejlord	0	0	0	0	1	0	0	0	0	0	0
+Tryndamere	Assasin, Fighter	Frejlord	1	0	0	0	0	0	0	0	0	0	0
+Twisted Fate	Mage	Bilgewater	0	0	0	0	0	0	1	0	1	0	0
+Twitch	Assasin, Marksman	Zaun	0	1	0	0	0	0	0	0	0	0	1
+Udyr	Fighter, Tank	Frejlord	0	0	0	0	0	0	0	0	0	0	0
+Urgot	Fighter, Tank	Zaun	0	0	0	0	0	0	0	1	0	1	0
+Varus	Mage, Marksman	Ionia	0	0	0	0	0	0	1	0	0	0	0
+Vayne	Assasin, Marksman	Demacia	0	1	0	0	0	0	0	1	0	0	0
+Veigar	Mage	Bandle City	0	0	0	0	1	0	0	0	0	0	0
+Vel'Koz	Mage	Void	0	0	0	0	0	0	1	0	0	0	1
+Vex	Mage	Bandle City	0	0	0	0	0	0	1	0	1	0	0
+Vi	Assasin, Fighter	Piltover	0	0	0	0	0	0	0	0	0	1	0
+Viego	Assasin, Fighter	Shadow Isles	0	1	0	0	0	0	0	0	0	0	0
+Viktor	Mage	Zaun	0	0	0	0	0	0	1	0	0	0	1
+Vladimir	Mage	Noxus	1	0	0	0	0	0	0	0	0	0	1
+Volibear	Fighter, Tank	Frejlord	0	0	0	0	0	0	0	0	0	0	1
+Warwick	Fighter, Tank	Zaun	0	0	0	0	0	0	0	0	0	1	0
+Wukong	Fighter, Tank	Ionia	0	1	0	0	0	0	0	0	0	0	0
+Xayah	Marksman	Ionia	0	0	0	0	0	0	1	0	0	0	1
+Xerath	Mage	Shurima	0	0	0	0	0	0	1	0	1	0	0
+Xin Zhao	Assasin, Fighter	Demacia	1	0	0	0	0	0	0	1	0	1	1
+Yasuo	Assasin, Fighter	Ionia	0	0	0	0	0	0	0	0	0	1	0
+Yone	Assasin, Fighter	Ionia	0	0	0	0	0	0	0	1	0	1	1
+Yorick	Fighter, Tank	Shadow Isles	0	0	1	0	1	0	0	0	0	0	0
+Yuumi	Mage, Support	Bandle City	1	0	0	0	0	1	1	0	0	0	1
+Zac	Fighter, Tank	Zaun	1	0	0	0	0	0	0	1	0	1	1
+Zed	Assasin	Ionia	1	0	1	0	0	0	0	0	0	0	0
+Zeri	Marksman	Zaun	0	0	0	0	0	0	1	0	0	0	1
+Ziggs	Mage	Zaun, Bandle City	0	0	0	1	0	0	1	1	1	0	1
+Zilean	Mage, Support	Shurima	1	0	0	0	0	1	0	0	0	0	0
+Zoe	Mage, Support	Targon	0	0	0	0	0	0	1	0	0	0	0
+Zyra	Mage, Support	Ixtal	0	0	1	1	0	0	0	0	0	1	1
