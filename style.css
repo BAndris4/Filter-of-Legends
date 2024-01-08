@@ -154,8 +154,8 @@ section {
     --clr-1: #052b2f;
     --clr-2: #073438;
     --clr-3: #091428;
-    --clr-4: #005A82;
-    --clr-5: #0397AB;
+    --clr-4: #0A323C;
+    --clr-5: #005A82;
 }
 
 #champborder {
@@ -179,7 +179,9 @@ section {
   background: conic-gradient(
     from var(--gradient-angle),
     var(--clr-3),
-    var(--clr-3),
+    var(--clr-4),
+    var(--clr-4),
+    var(--clr-5),
     var(--clr-4),
     var(--clr-4),
     var(--clr-3)
@@ -272,4 +274,6 @@ img {
     width: 60px;
     aspect-ratio: 1;
     flex: 0 0 0;
+    border-radius: 30%;
+    box-shadow: 0px 1px 10px #090a0f;
 }
