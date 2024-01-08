@@ -33,7 +33,6 @@ function write_into(filtered){
         images[i] = document.createElement("img");
     }
     var source = document.getElementById("champborder");
-    console.log(source);
     source.innerHTML = "";
     for (let i = 0; i<filtered.length; i++){
         images[i].src = "champs/"+filtered[i][0]+"Square.png";
@@ -101,9 +100,7 @@ fetch(filePath)
                 } else {
                     filter[index+3] = "All";
                 }
-                console.log(filter);
                 filtered=sorting(final);
-                console.log(filtered);
                 write_into(filtered);
             });
         });
