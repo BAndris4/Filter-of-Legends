@@ -2,13 +2,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600&display=swap');
 
 html {
-    height: 100%;
-    background: radial-gradient(ellipse at bottom, #1b2735 0%, #090a0f 100%);
-    overflow: hidden;
+    overflow: visible;
     user-select: none;
 }
 
 body {
+    background: radial-gradient(ellipse at center, #1b2735 0%, #090a0f 100%);
     display: flex;
     flex-direction: column;
     margin: 0;
@@ -42,6 +41,10 @@ a, a:visited, a:active{
     transition: color 0.3s;
 }
 
+header:nth-child(3){
+    align-items: right;
+}
+
 .felsor:hover{
     background-color: #181818;
     cursor: pointer;
@@ -54,11 +57,11 @@ section {
     height: 100%;
 }
 .urlap {
-    width: 45%;
+    min-width: 45%;
     display: flex;
 }
 .bal {
-    width: 40%;
+    min-width: 40%;
     padding-top: 30px; 
     padding-left: 8%;
     display: flex;
@@ -135,12 +138,14 @@ section {
 }
 
 .kozep {
-    width: 70%;
+    min-width: 70%;
     padding-top: 40px;
     padding-left: 8%;
 }
 .jobb {
+    min-height: 100%;
     width: 55%;
+    min-width: 20%;
     display: flex;
 }
 
@@ -160,11 +165,13 @@ section {
 
 #champborder {
     display: flex;
+    justify-content: left;
     align-items: flex-start;
     align-content: flex-start;
     flex-wrap: wrap;
-    height: 720px;
-    width: 900px;
+    min-height: 720px;
+    width: 86%;
+    min-width: 50%;
     margin: 50px;
     background: #141d27;
     position: relative;
@@ -276,4 +283,23 @@ img {
     flex: 0 0 0;
     border-radius: 30%;
     box-shadow: 0px 1px 10px #090a0f;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+  
+::-webkit-scrollbar-track {
+    background: #090a0f;
+}
+   
+::-webkit-scrollbar-thumb {
+    background: linear-gradient(to bottom,#C89B3C, #785A28); 
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: linear-gradient(to bottom,#C89B3C, #785A28);; 
+}
+::-webkit-scrollbar-corner {
+    background: #090a0f;
 }

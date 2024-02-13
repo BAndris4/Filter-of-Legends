@@ -1,4 +1,4 @@
-Hero	Role	Region	They Just... Don't... Die!	Where'd They Go?	Summoners on the Rift	It's a Trap!	I'm Helping	We Protec	We're good over here	Get over here	Nowhere to hide	Hold that pose	"It has ""ULTIMATE"" in the name!"
+Hero	Cast	Region	They Just... Don't... Die!	Where'd They Go?	Summoners on the Rift	It's a Trap!	I'm Helping	We Protec	We're good over here	Get over here	Nowhere to hide	Hold that pose	It has "ULTIMATE" in the name!
 Aatrox	Fighter, Tank	0	0	0	0	0	0	0	0	0	0	1	0
 Ahri	Assasin, Mage	Ionia	0	0	0	0	0	0	0	0	0	0	0
 Akali	Assasin	Ionia	0	1	0	0	0	0	0	0	0	0	0

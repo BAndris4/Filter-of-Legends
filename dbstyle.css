@@ -1,0 +1,134 @@
+@import url(https://db.onlinewebfonts.com/c/b621d1ffb46493164fd62fb7a83ab0ff?family=Mark+W05+Medium);
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600&display=swap');
+
+html {
+    background: radial-gradient(ellipse at center, #1b2735 50%, #090a0f 100%);
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    font-family: "Mark W05 Medium";
+    color: #EEEEEE;
+    font-weight: bold;
+    overflow: visible;
+    user-select: none;
+}
+
+header {
+    background-color: rgb(0, 0, 0, 0.25);
+    height: 80px;
+    width: 100%;
+    display: flex;
+    align-items: center; 
+}
+
+a, a:visited, a:active{
+    text-decoration: none;
+    color: #EEEEEE;
+}
+.felsor {
+    margin-left: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 20px;
+    padding: 10px 30px;
+    padding-bottom: 13px;
+    border-radius: 10px;
+    transition: background 0.3s;
+    transition: color 0.3s;
+}
+
+.felsor:hover{
+    background-color: #181818;
+    cursor: pointer;
+    color: #C89B3C;
+}
+
+table {
+    padding: 10px;
+    margin: 30px;
+    border-spacing: 0px;
+    background-color: rgba(0,0,0,60%);
+    border: 1px solid transparent;
+    border-radius: 10px;
+    position: relative;
+}
+
+table::before,
+table::after {
+    content: "";
+    position: absolute;
+    inset: -0.5rem;
+    z-index: -1;
+    background: radial-gradient(ellipse at center, #005A82 60%, #0A323C);
+    border-radius: inherit;
+}
+
+table::after {
+    filter: blur(0.5rem);
+}
+
+td {
+    transition: color 0.5s;
+    background-color: radial-gradient(ellipse at center, #1b2735 0%, #090a0f 100%);
+    width: 5%;
+    height: 50px;
+    text-align: center;
+    border: none;
+}
+
+td:first-of-type{
+    font-size: 0;
+    width: 2%;
+    padding: 0;
+    vertical-align: middle;
+}
+
+tr:first-of-type td:first-of-type{
+    font-size: 16px;
+    border-top-left-radius: 10px;
+}
+tr:last-of-type td:first-of-type{
+    border-bottom-left-radius: 10px;
+}
+tr:last-of-type td:last-of-type{
+    border-bottom-right-radius: 10px;
+}
+tr:first-of-type td:last-of-type{
+    border-top-right-radius: 10px;
+}
+
+td:hover{
+    color: #C89B3C;
+    transition: color 0.5s;
+    background-color: rgba(0,0,0,15%);
+}
+
+td img {
+    aspect-ratio: 1;
+    width: 50px;
+    vertical-align: middle;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+  
+::-webkit-scrollbar-track {
+    background: #090a0f;
+}
+
+::-webkit-scrollbar-corner {
+    background: #090a0f;
+}
+   
+::-webkit-scrollbar-thumb {
+    background: linear-gradient(to bottom,#C89B3C, #785A28); 
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: linear-gradient(to bottom,#C89B3C, #785A28);; 
+}
