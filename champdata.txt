@@ -121,6 +121,7 @@ Singed	Fighter, Tank	Zaun	0	0	0	0	0	0	0	1	0	1	0
 Sion	Fighter, Tank	Noxus	1	0	0	0	0	0	0	0	1	1	0
 Sivir	Marksman	Shurima	0	0	0	0	0	0	1	0	0	0	0
 Skarner	Fighter, Tank	Shurima	0	0	0	0	0	0	0	1	0	1	0
+Smolder	Marksman	Void	0	0	0	0	0	0	1	0	1	0	1
 Sona	Mage, Support	Demacia	0	0	0	0	0	1	0	0	0	0	1
 Soraka	Mage, Support	Targon	0	0	0	0	0	1	0	0	1	0	0
 Swain	Fighter, Mage	Noxus	0	0	0	0	0	0	0	1	1	0	1
