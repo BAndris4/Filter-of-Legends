@@ -1,13 +1,13 @@
 @import url(https://db.onlinewebfonts.com/c/b621d1ffb46493164fd62fb7a83ab0ff?family=Mark+W05+Medium);
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600&display=swap');
 
-html {
-    overflow: visible;
+
+html { 
     user-select: none;
 }
 
 body {
-    background: radial-gradient(ellipse at center, #1b2735 0%, #090a0f 100%);
+    background: radial-gradient(ellipse at bottom, #1b2735 0%, #090a0f 100%);
     display: flex;
     flex-direction: column;
     margin: 0;
@@ -29,6 +29,7 @@ a, a:visited, a:active{
     color: #EEEEEE;
 }
 .felsor {
+    text-align: center;
     margin-left: 50px;
     display: flex;
     align-items: center;
@@ -57,17 +58,51 @@ section {
     height: 100%;
 }
 .urlap {
-    min-width: 45%;
+    width: 40%;
     display: flex;
 }
 .bal {
-    min-width: 40%;
+    width: 200px;
     padding-top: 30px; 
-    padding-left: 8%;
+    padding-left: 40px;
     display: flex;
     flex-direction: column;
 }
 
+.kozep {
+    width: 300px;
+    padding-left: 40px;
+    padding-top: 40px;
+}
+
+.jobb {
+    display: flex;
+}
+
+@media (max-width: 1300px){
+    section{
+        flex-direction: column;
+    }
+    .urlap{
+        flex-direction: column;
+        width: 100%;
+    }
+    .bal, .kozep{
+        width: 90%;
+        padding-left: 5%;
+    }
+    .jobb {
+        width: 100%;
+    }
+    .kozep{
+        height: 750px;
+    }
+    .felsor{
+        margin-left: 5%;
+    }
+
+
+}
 .select-menu{
     width: 100%;
     margin: 10px;
@@ -137,18 +172,6 @@ section {
     color: #EEEEEE;
 }
 
-.kozep {
-    min-width: 70%;
-    padding-top: 40px;
-    padding-left: 8%;
-}
-.jobb {
-    min-height: 100%;
-    width: 55%;
-    min-width: 20%;
-    display: flex;
-}
-
 @property --gradient-angle {
     syntax: "<angle>";
     initial-value: 0deg;
@@ -164,14 +187,12 @@ section {
 }
 
 #champborder {
+    width: 90%;
     display: flex;
     justify-content: left;
-    align-items: flex-start;
-    align-content: flex-start;
     flex-wrap: wrap;
+    align-content: flex-start;
     min-height: 720px;
-    width: 86%;
-    min-width: 50%;
     margin: 50px;
     background: #141d27;
     position: relative;
