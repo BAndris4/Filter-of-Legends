@@ -188,9 +188,11 @@ section {
 }
 
 #champborder {
+    min-height: 725px;
     width: 90%;
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(10px, 60px));
+    align-content: start;
+    grid-template-columns: repeat(auto-fill, minmax(60px, 60px));
     justify-content: space-around;
     margin: 50px;
     background: #141d27;
