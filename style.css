@@ -101,9 +101,14 @@ section {
     .felsor{
         margin-left: 5%;
     }
-
-
 }
+
+@media (min-width: 1920px) {
+    html {
+        height: 100%;
+    }
+}
+
 .select-menu{
     width: 100%;
     margin: 10px;
