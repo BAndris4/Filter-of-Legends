@@ -80,35 +80,6 @@ section {
     display: flex;
 }
 
-@media (max-width: 1300px){
-    section{
-        flex-direction: column;
-    }
-    .urlap{
-        flex-direction: column;
-        width: 100%;
-    }
-    .bal, .kozep{
-        width: 90%;
-        padding-left: 5%;
-    }
-    .jobb {
-        width: 100%;
-    }
-    .kozep{
-        height: 750px;
-    }
-    .felsor{
-        margin-left: 5%;
-    }
-}
-
-@media (min-width: 1920px) {
-    html {
-        height: 100%;
-    }
-}
-
 .select-menu{
     width: 100%;
     margin: 10px;
@@ -197,7 +168,7 @@ section {
     width: 90%;
     display: grid;
     align-content: start;
-    grid-template-columns: repeat(auto-fill, minmax(60px, 60px));
+    grid-template-columns: repeat(auto-fill, minmax(0px, 60px));
     justify-content: space-around;
     margin: 50px;
     background: #141d27;
@@ -313,9 +284,13 @@ img {
 }
 
 ::-webkit-scrollbar {
-    width: 10px;
+    width: 0.25rem;
 }
   
+::-webkit-scrollbar:horizontal {
+    height: 0.25rem;
+}
+
 ::-webkit-scrollbar-track {
     background: #090a0f;
 }
@@ -329,4 +304,37 @@ img {
 }
 ::-webkit-scrollbar-corner {
     background: #090a0f;
+}
+
+
+@media (max-width: 1300px){
+    section{
+        flex-direction: column;
+    }
+    .urlap{
+        flex-direction: column;
+        width: 100%;
+    }
+    .bal, .kozep{
+        width: 90%;
+        padding-left: 5%;
+    }
+    .jobb {
+        width: 100%;
+    }
+    .kozep{
+        height: 750px;
+    }
+    .felsor{
+        margin-left: 5%;
+    }
+    #champborder {
+        min-height: 0px;
+    }
+}
+
+@media (min-width: 1920px) {
+    html {
+        height: 100%;
+    }
 }
